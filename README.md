@@ -113,7 +113,6 @@ Temperature: 24.6 *C  /  76.3 *F
 ## Photos
 
 ![](/Figures/PXL_20260311_055458537.jpg)
-![](/Figures/PXL_20260311_061212554.jpg)
 ![](/Figures/PXL_20260311_022752965.jpg)
 ![](/Figures/PXL_20260310_230406552.jpg)
 ![](/Figures/IMG_3299.jpg)
